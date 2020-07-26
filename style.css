@@ -1,6 +1,4 @@
-body {
-    font-family:  sans-serif;
-}
+
 
 .params {
     width: 100%;
@@ -9,7 +7,7 @@ body {
     margin: 16px auto;
     background: #FFFAE5;
     color: #686868;
-    border-radius: 40px;
+    border-radius: 20px;
     padding: 16px 0px;
     padding-bottom: 16px;
     overflow: hidden;
@@ -28,7 +26,7 @@ body {
     margin: 16px auto;
     background: #85cfdc;
     color: #686868;
-    border-radius: 40px;
+    border-radius: 20px;
     padding: 16px 0px;
     padding-bottom: 16px;
     overflow: hidden;
@@ -47,7 +45,7 @@ body {
     margin: 16px auto;
     background: #9fe2b6;
     color: #686868;
-    border-radius: 40px;
+    border-radius: 20px;
     padding: 16px 0px;
     padding-bottom: 16px;
     overflow: hidden;
@@ -100,7 +98,7 @@ h1 {
     margin: 16px auto;
     background: #FFFAE5;
     color: #686868;
-    border-radius: 40px;
+    border-radius: 20px;
     padding: 16px 0px;
     padding-bottom: 16px;
     overflow: hidden;
