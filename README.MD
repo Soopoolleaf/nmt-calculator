@@ -1,2 +1,2 @@
 ### 주민 계산기
-See https://acnhapi.com/nmt-calculator/ to see it in action.
+https://animalcrossing.soopoolleaf.com/ko/acnh/nmt-calculator_ko/ 에서 보실 수 있습니다. 
