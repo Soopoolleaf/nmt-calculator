@@ -1,2 +1,2 @@
-### NMT Calculator
+### 주민 계산기
 See https://acnhapi.com/nmt-calculator/ to see it in action.
